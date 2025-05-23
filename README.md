@@ -4,7 +4,7 @@ This project replicates the Intercom-style admin panel UI using React.
 [Click here to view the deployed site](https://intercom-assignment.netlify.app)
 
 ## GitHub Repo
-[GitHub Repository Link](https://github.com/your-username/intercom-assignment)
+https://github.com/tanisharawat12/assignment
 
 ## Tech Stack
 - ReactJS
